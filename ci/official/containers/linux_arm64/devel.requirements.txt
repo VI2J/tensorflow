@@ -25,7 +25,7 @@ wrapt ~= 1.14.1
 gast == 0.4.0
 
 # Test dependencies
-grpcio ~= 1.49.1
+grpcio ~= 1.68.1
 portpicker ~= 1.5.2
 scipy ~= 1.7.2; python_version < '3.11'
 scipy ~= 1.9.2; python_version >= '3.11' # Earliest version for Python 3.11
